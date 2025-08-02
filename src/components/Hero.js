@@ -135,7 +135,7 @@ const Hero = () => {
               <h3 className="text-xl font-semibold mb-4 text-primary">Quick Stats</h3>
               <div className="grid grid-cols-2 gap-4">
                 <div className="text-center">
-                  <div className="text-2xl font-bold text-primary">0+</div>
+                  <div className="text-2xl font-bold text-primary">1+</div>
                   <div className="text-sm text-text-secondary">Years Experience</div>
                 </div>
                 <div className="text-center">

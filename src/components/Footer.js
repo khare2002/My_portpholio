@@ -123,7 +123,7 @@ const Footer = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
             viewport={{ once: true }}
           >
-            © 2024 Yash Khare. Made with{' '}
+            © 2025 Yash Khare. Made with{' '}
             <FaHeart className="inline text-accent" />{' '}
             for cybersecurity enthusiasts.
           </motion.p>

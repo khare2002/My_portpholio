@@ -14,7 +14,7 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: FaGithub,
-      href: 'https://github.com/yashkhare',
+      href: 'https://github.com/khare2002',
       color: '#333'
     },
     {

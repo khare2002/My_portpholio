@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
   FaEnvelope, FaPhone, FaMapMarkerAlt, FaLinkedin,
-  FaPaperPlane, FaUser, FaComment
+  FaPaperPlane, FaUser, FaComment, FaGithub
 } from 'react-icons/fa';
 
 const Contact = () => {
@@ -43,6 +43,13 @@ const Contact = () => {
       value: "linkedin.com/in/yash-khare-69766a249",
       href: "https://linkedin.com/in/yash-khare-69766a249",
       color: "#0077B5"
+    },
+    {
+      icon: FaGithub,
+      title: "Github",
+      value: "github.com/khare2002",
+      href: "https://github.com/khare2002",
+      color: "#122656"
     }
   ];
 

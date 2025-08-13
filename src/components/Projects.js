@@ -22,7 +22,7 @@ const Projects = () => {
       ],
       technologies: ["Python", "Packet Tracer", "Wireshark", "IoT Protocols"],
       image: "🔒",
-      github: "#",
+      github: "https://github.com/khare2002/IOT-Security-Simulation",
       live: "#",
       featured: true
     },
@@ -39,7 +39,7 @@ const Projects = () => {
       ],
       technologies: ["Python", "JavaScript", "WebSocket", "Cryptography"],
       image: "💬",
-      github: "#",
+      github: "https://github.com/khare2002/-Secure-File-Encryption-Tool",
       live: "#",
       featured: true
     },

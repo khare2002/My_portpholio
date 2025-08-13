@@ -21,7 +21,7 @@ const Hero = () => {
 
   const contactInfo = [
     { icon: FaPhone, text: "+91 9131504873", href: "tel:+919131504873" },
-    { icon: FaEnvelope, text: "YashKhare2002@gmail.com", href: "mailto:YashKhare2002@gmail.com" },
+    { icon: FaEnvelope, text: "Yashkhare2002@gmail.com", href: "mailto:yashkhare2002@gmail.com" },
     { icon: FaMapMarkerAlt, text: "Jabalpur, MP, India", href: "#" },
     { icon: FaLinkedin, text: "linkedin.com/in/yash-khare-69766a249", href: "https://linkedin.com/in/yash-khare-69766a249" },
     { icon: FaGithub, text: "github.com/khare2002", href: "https://github.com/khare2002/My-Port-Pholio" }
